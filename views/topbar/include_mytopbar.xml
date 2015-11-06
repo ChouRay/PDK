@@ -1,0 +1,14 @@
+<com.bobo.splayer.modules.mycenter.view.MyTopBar
+    android:id="@+id/topbar_common"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    custom:leftBackground="@drawable/button_common_select"
+    custom:rightBackground="@drawable/button_common_select"
+    custom:rightText=""
+    custom:rightTextColor="#FFFFFF"
+    custom:titleTextColor="#FFFFFF"
+    custom:titleTextSize="6dp"
+    custom:toptitle="title"
+    />
